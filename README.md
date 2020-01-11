@@ -1,2 +1,2 @@
 # data-engineering-studies
-Python codes using PySpark
+PySpark, CRUDs etc.
